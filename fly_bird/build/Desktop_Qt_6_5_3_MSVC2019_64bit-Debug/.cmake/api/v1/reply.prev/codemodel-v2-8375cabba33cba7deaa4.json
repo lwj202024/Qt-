@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5d82b1843c48abda119d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "fly_bird",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "fly_bird::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fly_bird-Debug-9e6cea4a2d2b6e2e7e8f.json",
+					"name" : "fly_bird",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fly_bird_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fly_bird_autogen-Debug-d393794c6abed1f15999.json",
+					"name" : "fly_bird_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fly_bird_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fly_bird_autogen_timestamp_deps-Debug-206fdab005207e9e8f8f.json",
+					"name" : "fly_bird_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Qt/fly_bird/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug",
+		"source" : "D:/Qt/fly_bird"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

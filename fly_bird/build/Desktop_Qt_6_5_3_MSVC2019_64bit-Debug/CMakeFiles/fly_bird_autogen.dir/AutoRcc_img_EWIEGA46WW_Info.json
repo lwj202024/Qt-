@@ -1,0 +1,32 @@
+{
+	"BUILD_DIR" : "D:/Qt/fly_bird/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/fly_bird_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Qt/fly_bird/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Qt/fly_bird/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Qt/fly_bird",
+	"CMAKE_SOURCE_DIR" : "D:/Qt/fly_bird",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "D:/Qt/fly_bird/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/fly_bird_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/Qt/fly_bird/images/\u7ba1\u67f1.png",
+		"D:/Qt/fly_bird/images/blue_sky.png",
+		"D:/Qt/fly_bird/images/\u7ba1\u5b50\u5934.png",
+		"D:/Qt/fly_bird/images/bird3.png",
+		"D:/Qt/fly_bird/images/bird1.png",
+		"D:/Qt/fly_bird/images/bird2.png",
+		"D:/Qt/fly_bird/images/bird4.png",
+		"D:/Qt/fly_bird/ai_matrix/output.txt"
+	],
+	"LOCK_FILE" : "D:/Qt/fly_bird/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/fly_bird_autogen.dir/AutoRcc_img_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "img" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_img.cpp",
+	"RCC_EXECUTABLE" : "D:/Qt/6.5.3/msvc2019_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/Qt/fly_bird/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/fly_bird_autogen.dir/AutoRcc_img_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/Qt/fly_bird/img.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}
