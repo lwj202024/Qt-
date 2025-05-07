@@ -259,7 +259,8 @@
 		"D:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginTargets-debug.cmake",
 		"D:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginTargets-relwithdebinfo.cmake",
 		"D:/Qt/6.5.3/msvc2019_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginAdditionalTargetInfo.cmake",
-		"D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/GNUInstallDirs.cmake"
+		"D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/GNUInstallDirs.cmake",
+		"D:/Qt/fly_bird/img.qrc"
 	],
 	"CMAKE_SOURCE_DIR" : "D:/Qt/fly_bird",
 	"CROSS_CONFIG" : false,
@@ -271,6 +272,18 @@
 			"D:/Qt/fly_bird/fly_bird.h",
 			"MU",
 			"EWIEGA46WW/moc_fly_bird.cpp",
+			null
+		],
+		[
+			"D:/Qt/fly_bird/instructiondialog.h",
+			"MU",
+			"EWIEGA46WW/moc_instructiondialog.cpp",
+			null
+		],
+		[
+			"D:/Qt/fly_bird/startwindow.h",
+			"MU",
+			"EWIEGA46WW/moc_startwindow.cpp",
 			null
 		]
 	],
@@ -329,7 +342,9 @@
 	"SOURCES" : 
 	[
 		[ "D:/Qt/fly_bird/fly_bird.cpp", "MU", null ],
-		[ "D:/Qt/fly_bird/main.cpp", "MU", null ]
+		[ "D:/Qt/fly_bird/instructiondialog.cpp", "MU", null ],
+		[ "D:/Qt/fly_bird/main.cpp", "MU", null ],
+		[ "D:/Qt/fly_bird/startwindow.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],
